@@ -1,2 +1,2 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+My name is Natanim Abebe
+This is my last semester.
